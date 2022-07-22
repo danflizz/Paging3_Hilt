@@ -1,4 +1,14 @@
 <resources>
     <string name="app_name">EncoraTask</string>
+    <string name="id_name">%s. %s</string>
     <string name="title_item_detail">Item Detail</string>
+    <string name="status">Status: %s \n</string>
+    <string name="species">Species: %s</string>
+    <string name="type">Type: %s</string>
+    <string name="gender">Gender: %s</string>
+    <string name="type_unknown">Type: Unknown</string>
+    <string name="unknown">Unknown</string>
+    <string name="details"><![CDATA[<font color="#97ce4c"><b>Status:</b></font> %s <br><font color="#01B4C6"><b>Species:</b></font> %s <br><font color="#97ce4c"><b>Type:</b></font> %s <br><font color="#01B4C6"><b>Gender:</b></font> %s<br>]]></string>
+    <string name="error">Error</string>
+    <string name="loading">Loading...</string>
 </resources>
